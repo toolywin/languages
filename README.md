@@ -1,5 +1,4 @@
 # Help us translate to your language
-Open translations
 This repository hosts all available translations of ToolyWin, live on https://tooly.win/
 
 # Translations
